@@ -3,30 +3,21 @@ My first respository
 
 # My Favorite Movie: **Venom** 
 
-## Overview
-*Venom* is a superhero film that follows Eddie Brock, a journalist who becomes the host for an alien symbiote named Venom. Together, they form a powerful yet unpredictable partnership, battling foes while learning to coexist.
-
 ---
 
 ## Reasons I  Really Love This Movie
 1. **Unique Antihero**: Venom is not your typical superhero—he's dark chaotic and funny
-2. **Tom Hardy's Performance**: Tom Hardy nails the dual role of Eddie and Venom with charisma and humor.
-3. **Action and Visual Effects**: The symbiote's transformations and fight scenes are super amazing.
-4. **Comedy and Chemistry**: The banter between Eddie and Venom is hilarious and adds a fresh twist to the genre.
+2. **Action and Visual Effects**: The symbiote's transformations and fight scenes are super amazing.
+3. **Comedy and Chemistry**: The banter between Eddie and Venom is hilarious and adds a fresh twist to the genre.
 
 ---
 
 ## Memorable Scenes
-- **Venom's First Transformation**: 
+- **Venom The First Transformation**: 
   > Eddie's shock and when Venom saves him for the first time.
   
 - **"We Are Venom" Scene**: 
   > The iconic moment when Venom introduces himself to a thief.
-
----
-
-## Favorite Quote
-> "*Eyes! Lungs! Pancreas! So many snacks, so little time...*" — Venom
 
 ---
 
