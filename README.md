@@ -39,8 +39,3 @@ My first respository
 - [x] Watch *Venom: The Last Dance* (2024)
 
 ---
-
-## Why Venom Stands Out
-Venom is a great movie because it mixes exciting action, funny moments, and a unique antihero. It's not just about being a hero—it’s about accepting the chaos and making it work!
-
----
